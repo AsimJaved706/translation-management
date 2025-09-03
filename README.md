@@ -110,6 +110,6 @@ docker-compose exec app php artisan test
 docker-compose exec app php artisan translations:benchmark
 
 
-![Alt Text](public/screenshots/Screenshot_1.png)
+![Alt Text](public\screenshots\Screenshot_1.png)
 ![Alt Text](public/screenshots/Screenshot_2.png)
 
